@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Mountains",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Mt. Rainier" }, "geometry": { "type": "Point", "coordinates": [ -121.7616, 46.8537 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. Baker" }, "geometry": { "type": "Point", "coordinates": [ -121.792, 48.7786 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. St. Helens" }, "geometry": { "type": "Point", "coordinates": [ -122.1509, 46.255 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. Adams" }, "geometry": { "type": "Point", "coordinates": [ -121.477, 46.213 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. Hood" }, "geometry": { "type": "Point", "coordinates": [ -121.6854, 45.3982 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. Jefferson" }, "geometry": { "type": "Point", "coordinates": [ -121.7397, 44.6911 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. Thielson" }, "geometry": { "type": "Point", "coordinates": [ -122.0053, 43.11 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. McLoughlin" }, "geometry": { "type": "Point", "coordinates": [ -122.3054, 42.4523 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. Shasta" }, "geometry": { "type": "Point", "coordinates": [ -122.1791, 41.4052 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. Rose" }, "geometry": { "type": "Point", "coordinates": [ -119.8736, 39.3077 ] } },
+{ "type": "Feature", "properties": { "Name": "Mt. Pinos" }, "geometry": { "type": "Point", "coordinates": [ -119.1497, 34.8357 ] } }
+]
+}
